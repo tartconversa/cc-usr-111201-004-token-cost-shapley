@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/course_map.csv",
+    "sha256": "681598dd76625975f9191021f83658d135b991341bb2c683c02568b6b2931bea",
+    "size_bytes": 88
+  },
+  {
+    "path": "fixtures/missing-counterfactual.json",
+    "sha256": "ebfbc874ea41a362dfe64b2c95090c5c239a40f0d7b7f7038267c3fdcd6a2bd6",
+    "size_bytes": 364
+  },
+  {
+    "path": "fixtures/periods.json",
+    "sha256": "a550c96e58e21db63aab36e32f49d22516ddf5d5cebaf6bebae086757b5b63e8",
+    "size_bytes": 946
+  }
+]
